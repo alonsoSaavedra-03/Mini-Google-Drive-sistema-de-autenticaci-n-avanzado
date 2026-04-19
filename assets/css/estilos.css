@@ -1,0 +1,17 @@
+/* Variables de color para el diseño */
+:root{
+    --colorPrimario: #2FA4A9;      /* Verde médico suave */
+    --colorSecundario: #4F8EF7;    /* Azul confianza */
+    --colorTerciario: #A7D7E8;     /* Azul claro relajante */
+    --colorSombreas: #1F2D3D;      /* Azul oscuro elegante */
+    --colorTitulos: #1F2D3D;       /* Títulos sobrios */
+    --colorParrafos: #5F6B73;      /* Gris suave legible */
+    --colorFondo: #F7FAFC;         /* Fondo limpio tipo hospital */
+    --colorBordes: #D9E2EC;        /* Bordes sutiles */
+
+    --zIndexNormal: 1;
+    --zIndexTooltip: 10;
+    --zIndexFixed: 100;
+    --zIndexModal: 1000;
+    --zIndexPopUp: 10000;
+}
